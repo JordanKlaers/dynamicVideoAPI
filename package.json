@@ -1,0 +1,29 @@
+{
+  "name": "dynamicVideoAPI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "lodash": "^4.17.20",
+    "puppeteer": "^5.5.0",
+    "socket.io": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordanKlaers/dynamicVideoAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JordanKlaers/dynamicVideoAPI/issues"
+  },
+  "homepage": "https://github.com/JordanKlaers/dynamicVideoAPI#readme"
+}
